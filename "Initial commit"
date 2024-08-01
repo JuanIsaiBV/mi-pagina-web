@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Juan Isai Benitez Velazquez - Currículum</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #2c3e50;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+        }
+        nav {
+            background-color: #34495e;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 18px;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .section-title {
+            border-bottom: 2px solid #2c3e50;
+            padding-bottom: 10px;
+            margin-bottom: 20px;
+        }
+        .section-title h2 {
+            margin: 0;
+        }
+        .cv-section {
+            margin-bottom: 30px;
+        }
+        footer {
+            background-color: #2c3e50;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Juan Isai Benitez Velazquez</h1>
+        <p>Profesional de la Industria Automotriz</p>
+    </header>
+    <nav>
+        <a href="#about">Sobre Mí</a>
+        <a href="#cv">Currículum</a>
+        <a href="#contact">Contacto</a>
+    </nav>
+    <div class="container">
+        <section id="about" class="cv-section">
+            <div class="section-title">
+                <h2>Sobre Mí</h2>
+            </div>
+            <p>Soy Juan Isai Benitez Velazquez, un profesional dedicado a la industria automotriz con amplia experiencia en ingeniería industrial. Mi objetivo es aplicar mis conocimientos y habilidades para contribuir al desarrollo y mejora continua de procesos y productos en el sector automotriz.</p>
+        </section>
+        <section id="cv" class="cv-section">
+            <div class="section-title">
+                <h2>Currículum</h2>
+            </div>
+            <h3>Experiencia Laboral</h3>
+            <ul>
+                <li><strong>Ford Motor Company México (Junio 2021 – Julio 2024)</strong>
+                    <ul>
+                        <li>Ingeniero de lanzamiento para partes relacionadas con nuevos proyectos y nuevos años modelo para partes de transmisión eléctrica y eDrive.</li>
+                        <li>Gestión de cambios de diseño, solicitudes de proveedores y gestión de PPAP y APQP.</li>
+                        <li>Preparación y coordinación de fases de prueba del sistema.</li>
+                        <li>Aplicación de métodos Lean en análisis y reportes de problemas.</li>
+                    </ul>
+                </li>
+                <li><strong>Electrometer de las Américas S.A. de C.V. (Diciembre 2019 – Febrero 2021)</strong>
+                    <ul>
+                        <li>Certificación de proveedor competente bajo ISO 9001:2015.</li>
+                        <li>Soporte logístico y análisis de datos de producción.</li>
+                        <li>Auditorías internas y seguimiento de acciones correctivas.</li>
+                    </ul>
+                </li>
+                <li><strong>Morgan Thermal Ceramics, Advanced Materials S.A. de C.V. (Enero 2019 – Junio 2019)</strong>
+                    <ul>
+                        <li>Aplicación y monitoreo de acciones de auditoría ISO 9001:2015 y 14001:2015.</li>
+                        <li>Validación y mejora continua de procesos.</li>
+                    </ul>
+                </li>
+                <li><strong>City Club, Organización Soriana, S.A. de C.V. (Noviembre 2016 – Febrero 2017)</strong>
+                    <ul>
+                        <li>Registro de material de entrada y soporte técnico en herramientas de clase mundial.</li>
+                    </ul>
+                </li>
+            </ul>
+            <h3>Certificaciones</h3>
+            <ul>
+                <li>Ingeniero Green Belt</li>
+                <li>Control de Cambio</li>
+                <li>Software de dibujo automotriz</li>
+                <li>DMAIC y herramientas 6 Panel</li>
+                <li>Fundamentos de garantía</li>
+                <li>Proceso STA global para calidad (BSAQ)</li>
+                <li>Técnicas de resolución de problemas - Regresión lógica binaria</li>
+                <li>Introducción al Sistema de Producción Ford</li>
+                <li>Manufactura esbelta</li>
+                <li>Control estadístico de procesos (SPC)</li>
+                <li>Planes de verificación de diseño</li>
+                <li>Costos y gastos de garantía básicos</li>
+            </ul>
+            <h3>Educación</h3>
+            <ul>
+                <li>Ingeniero Industrial, Universidad Autónoma del Estado de Hidalgo</li>
+                <li>Certificaciones en Excel avanzado, liderazgo en equipos de alto rendimiento, auditor interno ISO 9001:2015 y auditor de calidad interna ISO 19011:2018</li>
+                <li>Certificación en crecimiento y desarrollo profesional por InnCrescento</li>
+            </ul>
+        </section>
+        <section id="contact" class="cv-section">
+            <div class="section-title">
+                <h2>Contacto</h2>
+            </div>
+            <p>Puedes contactarme a través de los siguientes medios:</p>
+            <ul>
+                <li>Email: <a href="mailto:juanisaibv@gmail.com">juanisaibv@gmail.com</a></li>
+                <li>Teléfono EU: +421 918 127 119</li>
+                <li>Teléfono MEX: +52 771 2136 021</li>
+                <li>LinkedIn: <a href="[tu perfil de LinkedIn]">[tu perfil de LinkedIn]</a></li>
+            </ul>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 Juan Isai Benitez Velazquez. Todos los derechos reservados.</p>
+    </footer>
+</body>
+</html>
